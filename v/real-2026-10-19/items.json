@@ -1,0 +1,479 @@
+[
+ {
+  "id": "LCR-S01",
+  "kind": "single",
+  "codes": [
+   "margherita"
+  ]
+ },
+ {
+  "id": "LCR-S02",
+  "kind": "single",
+  "codes": [
+   "cipolla"
+  ]
+ },
+ {
+  "id": "LCR-S03",
+  "kind": "single",
+  "codes": [
+   "fior"
+  ]
+ },
+ {
+  "id": "LCR-S04",
+  "kind": "single",
+  "codes": [
+   "napoli"
+  ]
+ },
+ {
+  "id": "LCR-S05",
+  "kind": "single",
+  "codes": [
+   "funghi"
+  ]
+ },
+ {
+  "id": "LCR-S06",
+  "kind": "single",
+  "codes": [
+   "prosciutto"
+  ]
+ },
+ {
+  "id": "LCR-S07",
+  "kind": "single",
+  "codes": [
+   "profunghi"
+  ]
+ },
+ {
+  "id": "LCR-S08",
+  "kind": "single",
+  "codes": [
+   "gorgonzola"
+  ]
+ },
+ {
+  "id": "LCR-S09",
+  "kind": "single",
+  "codes": [
+   "rucola"
+  ]
+ },
+ {
+  "id": "LCR-S10",
+  "kind": "single",
+  "codes": [
+   "hawaii"
+  ]
+ },
+ {
+  "id": "LCR-S11",
+  "kind": "single",
+  "codes": [
+   "calabrese"
+  ]
+ },
+ {
+  "id": "LCR-S12",
+  "kind": "single",
+  "codes": [
+   "ortolana"
+  ]
+ },
+ {
+  "id": "LCR-S13",
+  "kind": "single",
+  "codes": [
+   "calzone"
+  ]
+ },
+ {
+  "id": "LCR-S14",
+  "kind": "single",
+  "codes": [
+   "mare"
+  ]
+ },
+ {
+  "id": "LCR-S15",
+  "kind": "single",
+  "codes": [
+   "vegetariana"
+  ]
+ },
+ {
+  "id": "LCR-S16",
+  "kind": "single",
+  "codes": [
+   "giardino"
+  ]
+ },
+ {
+  "id": "LCR-S17",
+  "kind": "single",
+  "codes": [
+   "stagioni"
+  ]
+ },
+ {
+  "id": "LCR-S18",
+  "kind": "single",
+  "codes": [
+   "rustica"
+  ]
+ },
+ {
+  "id": "LCR-S19",
+  "kind": "single",
+  "codes": [
+   "salame"
+  ]
+ },
+ {
+  "id": "LCR-S20",
+  "kind": "single",
+  "codes": [
+   "tonno"
+  ]
+ },
+ {
+  "id": "LCR-S21",
+  "kind": "single",
+  "codes": [
+   "gamberetti"
+  ]
+ },
+ {
+  "id": "LCR-S22",
+  "kind": "single",
+  "codes": [
+   "padrone"
+  ]
+ },
+ {
+  "id": "LCR-S23",
+  "kind": "single",
+  "codes": [
+   "formaggi"
+  ]
+ },
+ {
+  "id": "LCR-S24",
+  "kind": "single",
+  "codes": [
+   "lacasa"
+  ]
+ },
+ {
+  "id": "LCR-S25",
+  "kind": "single",
+  "codes": [
+   "bufala"
+  ]
+ },
+ {
+  "id": "LCR-S26",
+  "kind": "single",
+  "codes": [
+   "lasagne"
+  ]
+ },
+ {
+  "id": "LCR-S27",
+  "kind": "single",
+  "codes": [
+   "verde"
+  ]
+ },
+ {
+  "id": "LCR-S28",
+  "kind": "single",
+  "codes": [
+   "cannelloni"
+  ]
+ },
+ {
+  "id": "LCR-S29",
+  "kind": "single",
+  "codes": [
+   "pcaprese"
+  ]
+ },
+ {
+  "id": "LCR-S30",
+  "kind": "single",
+  "codes": [
+   "pprosciutto"
+  ]
+ },
+ {
+  "id": "LCR-S31",
+  "kind": "single",
+  "codes": [
+   "ppiccante"
+  ]
+ },
+ {
+  "id": "LCR-S32",
+  "kind": "single",
+  "codes": [
+   "placasa"
+  ]
+ },
+ {
+  "id": "LCR-V01",
+  "kind": "versus",
+  "codes": [
+   "margherita",
+   "fior"
+  ],
+  "hook": "Klassisch oder mit Basilikum?"
+ },
+ {
+  "id": "LCR-V02",
+  "kind": "versus",
+  "codes": [
+   "salame",
+   "calabrese"
+  ],
+  "hook": "Mild oder scharf?"
+ },
+ {
+  "id": "LCR-V03",
+  "kind": "versus",
+  "codes": [
+   "funghi",
+   "profunghi"
+  ],
+  "hook": "Mit oder ohne Schinken?"
+ },
+ {
+  "id": "LCR-V04",
+  "kind": "versus",
+  "codes": [
+   "formaggi",
+   "gorgonzola"
+  ],
+  "hook": "Wie viel Käse darf's sein?"
+ },
+ {
+  "id": "LCR-V05",
+  "kind": "versus",
+  "codes": [
+   "hawaii",
+   "prosciutto"
+  ],
+  "hook": "Ananas: ja oder nein?"
+ },
+ {
+  "id": "LCR-V06",
+  "kind": "versus",
+  "codes": [
+   "tonno",
+   "cipolla"
+  ],
+  "hook": "Mit Thunfisch oder pur?"
+ },
+ {
+  "id": "LCR-V07",
+  "kind": "versus",
+  "codes": [
+   "gamberetti",
+   "mare"
+  ],
+  "hook": "Crevetten oder alles aus dem Meer?"
+ },
+ {
+  "id": "LCR-V08",
+  "kind": "versus",
+  "codes": [
+   "lasagne",
+   "verde"
+  ],
+  "hook": "Bolognese oder Verde?"
+ },
+ {
+  "id": "LCR-V09",
+  "kind": "versus",
+  "codes": [
+   "lacasa",
+   "placasa"
+  ],
+  "hook": "Pizza oder Piadina?"
+ },
+ {
+  "id": "LCR-V10",
+  "kind": "versus",
+  "codes": [
+   "rucola",
+   "bufala"
+  ],
+  "hook": "Rucola oder Büffelmozzarella?"
+ },
+ {
+  "id": "LCR-V11",
+  "kind": "versus",
+  "codes": [
+   "vegetariana",
+   "giardino"
+  ],
+  "hook": "Welche Veggie-Pizza?"
+ },
+ {
+  "id": "LCR-V12",
+  "kind": "versus",
+  "codes": [
+   "stagioni",
+   "rustica"
+  ],
+  "hook": "Quattro Stagioni oder Rustica?"
+ },
+ {
+  "id": "LCR-V13",
+  "kind": "versus",
+  "codes": [
+   "calzone",
+   "padrone"
+  ],
+  "hook": "Zugeklappt oder offen?"
+ },
+ {
+  "id": "LCR-V14",
+  "kind": "versus",
+  "codes": [
+   "pcaprese",
+   "pprosciutto"
+  ],
+  "hook": "Caprese oder Prosciutto?"
+ },
+ {
+  "id": "LCR-V15",
+  "kind": "versus",
+  "codes": [
+   "ortolana",
+   "napoli"
+  ],
+  "hook": "Mit Ei oder mit Sardellen?"
+ },
+ {
+  "id": "LCR-V16",
+  "kind": "versus",
+  "codes": [
+   "cannelloni",
+   "ppiccante"
+  ],
+  "hook": "Pasta oder Piadina?"
+ },
+ {
+  "id": "LCR-R01",
+  "kind": "roundup",
+  "codes": [
+   "margherita",
+   "funghi",
+   "vegetariana",
+   "giardino",
+   "rucola"
+  ],
+  "hook": "Team Veggie"
+ },
+ {
+  "id": "LCR-R02",
+  "kind": "roundup",
+  "codes": [
+   "napoli",
+   "tonno",
+   "gamberetti",
+   "mare"
+  ],
+  "hook": "Aus dem Meer"
+ },
+ {
+  "id": "LCR-R03",
+  "kind": "roundup",
+  "codes": [
+   "lasagne",
+   "verde",
+   "cannelloni"
+  ],
+  "hook": "Pasta al forno"
+ },
+ {
+  "id": "LCR-R04",
+  "kind": "roundup",
+  "codes": [
+   "pcaprese",
+   "pprosciutto",
+   "ppiccante",
+   "placasa"
+  ],
+  "hook": "Piadina"
+ },
+ {
+  "id": "LCR-R05",
+  "kind": "roundup",
+  "codes": [
+   "prosciutto",
+   "profunghi",
+   "hawaii",
+   "stagioni",
+   "rustica"
+  ],
+  "hook": "Mit Schinken"
+ },
+ {
+  "id": "LCR-R06",
+  "kind": "roundup",
+  "codes": [
+   "formaggi",
+   "gorgonzola",
+   "bufala",
+   "fior"
+  ],
+  "hook": "Für Käse-Fans"
+ },
+ {
+  "id": "LCR-R07",
+  "kind": "roundup",
+  "codes": [
+   "calabrese",
+   "ppiccante",
+   "padrone"
+  ],
+  "hook": "Darf's scharf sein?"
+ },
+ {
+  "id": "LCR-R08",
+  "kind": "roundup",
+  "codes": [
+   "margherita",
+   "salame",
+   "funghi",
+   "prosciutto"
+  ],
+  "hook": "Die Klassiker"
+ },
+ {
+  "id": "LCR-R09",
+  "kind": "roundup",
+  "codes": [
+   "cipolla",
+   "tonno",
+   "rustica",
+   "padrone"
+  ],
+  "hook": "Mit Zwiebeln"
+ },
+ {
+  "id": "LCR-R10",
+  "kind": "roundup",
+  "codes": [
+   "lacasa",
+   "lasagne",
+   "placasa"
+  ],
+  "hook": "Pizza · Pasta · Piadina"
+ }
+]
