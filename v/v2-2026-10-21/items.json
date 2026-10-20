@@ -1,0 +1,653 @@
+[
+ {
+  "id": "LCR-S01",
+  "kind": "single",
+  "codes": [
+   "margherita"
+  ],
+  "cta": "Speichere deinen Favoriten",
+  "seconds": 7.0,
+  "hook_shown": "Weniger ist mehr?"
+ },
+ {
+  "id": "LCR-S02",
+  "kind": "single",
+  "codes": [
+   "cipolla"
+  ],
+  "cta": "Folge uns für mehr Pizza",
+  "seconds": 7.0,
+  "hook_shown": "Nur Zwiebeln – würdest du?"
+ },
+ {
+  "id": "LCR-S03",
+  "kind": "single",
+  "codes": [
+   "fior"
+  ],
+  "cta": "Schreib's in die Kommentare",
+  "seconds": 7.0,
+  "hook_shown": "Basilikum, Olivenöl, Grana"
+ },
+ {
+  "id": "LCR-S04",
+  "kind": "single",
+  "codes": [
+   "napoli"
+  ],
+  "cta": "Tagge deine Pizza-Begleitung",
+  "seconds": 7.0,
+  "hook_shown": "Team Sardellen?"
+ },
+ {
+  "id": "LCR-S05",
+  "kind": "single",
+  "codes": [
+   "funghi"
+  ],
+  "cta": "Speichere deinen Favoriten",
+  "seconds": 7.0,
+  "hook_shown": "Champignon-Fans hier?"
+ },
+ {
+  "id": "LCR-S06",
+  "kind": "single",
+  "codes": [
+   "prosciutto"
+  ],
+  "cta": "Folge uns für mehr Pizza",
+  "seconds": 7.0,
+  "hook_shown": "Der Schinken-Klassiker"
+ },
+ {
+  "id": "LCR-S07",
+  "kind": "single",
+  "codes": [
+   "profunghi"
+  ],
+  "cta": "Schreib's in die Kommentare",
+  "seconds": 7.0,
+  "hook_shown": "Schinken + Champignons"
+ },
+ {
+  "id": "LCR-S08",
+  "kind": "single",
+  "codes": [
+   "gorgonzola"
+  ],
+  "cta": "Tagge deine Pizza-Begleitung",
+  "seconds": 7.0,
+  "hook_shown": "Für Gorgonzola-Fans"
+ },
+ {
+  "id": "LCR-S09",
+  "kind": "single",
+  "codes": [
+   "rucola"
+  ],
+  "cta": "Speichere deinen Favoriten",
+  "seconds": 7.0,
+  "hook_shown": "Rucola obendrauf?"
+ },
+ {
+  "id": "LCR-S10",
+  "kind": "single",
+  "codes": [
+   "hawaii"
+  ],
+  "cta": "Folge uns für mehr Pizza",
+  "seconds": 7.0,
+  "hook_shown": "Ananas auf Pizza: ja oder nein?"
+ },
+ {
+  "id": "LCR-S11",
+  "kind": "single",
+  "codes": [
+   "calabrese"
+  ],
+  "cta": "Schreib's in die Kommentare",
+  "seconds": 7.0,
+  "hook_shown": "Wie scharf magst du's?"
+ },
+ {
+  "id": "LCR-S12",
+  "kind": "single",
+  "codes": [
+   "ortolana"
+  ],
+  "cta": "Tagge deine Pizza-Begleitung",
+  "seconds": 7.0,
+  "hook_shown": "Speck, Ei und Spinat"
+ },
+ {
+  "id": "LCR-S13",
+  "kind": "single",
+  "codes": [
+   "calzone"
+  ],
+  "cta": "Speichere deinen Favoriten",
+  "seconds": 7.0,
+  "hook_shown": "Zugeklappt und gefüllt"
+ },
+ {
+  "id": "LCR-S14",
+  "kind": "single",
+  "codes": [
+   "mare"
+  ],
+  "cta": "Folge uns für mehr Pizza",
+  "seconds": 7.0,
+  "hook_shown": "Pizza aus dem Meer"
+ },
+ {
+  "id": "LCR-S15",
+  "kind": "single",
+  "codes": [
+   "vegetariana"
+  ],
+  "cta": "Schreib's in die Kommentare",
+  "seconds": 7.0,
+  "hook_shown": "Broccoli auf Pizza?"
+ },
+ {
+  "id": "LCR-S16",
+  "kind": "single",
+  "codes": [
+   "giardino"
+  ],
+  "cta": "Tagge deine Pizza-Begleitung",
+  "seconds": 7.0,
+  "hook_shown": "Vier Gemüse, eine Pizza"
+ },
+ {
+  "id": "LCR-S17",
+  "kind": "single",
+  "codes": [
+   "stagioni"
+  ],
+  "cta": "Speichere deinen Favoriten",
+  "seconds": 7.0,
+  "hook_shown": "Vier Jahreszeiten"
+ },
+ {
+  "id": "LCR-S18",
+  "kind": "single",
+  "codes": [
+   "rustica"
+  ],
+  "cta": "Folge uns für mehr Pizza",
+  "seconds": 7.0,
+  "hook_shown": "Mit Speck und Knoblauch"
+ },
+ {
+  "id": "LCR-S19",
+  "kind": "single",
+  "codes": [
+   "salame"
+  ],
+  "cta": "Schreib's in die Kommentare",
+  "seconds": 7.0,
+  "hook_shown": "Salami-Pizza, klassisch"
+ },
+ {
+  "id": "LCR-S20",
+  "kind": "single",
+  "codes": [
+   "tonno"
+  ],
+  "cta": "Tagge deine Pizza-Begleitung",
+  "seconds": 7.0,
+  "hook_shown": "Thunfisch und Zwiebeln?"
+ },
+ {
+  "id": "LCR-S21",
+  "kind": "single",
+  "codes": [
+   "gamberetti"
+  ],
+  "cta": "Speichere deinen Favoriten",
+  "seconds": 7.0,
+  "hook_shown": "Crevetten auf Pizza?"
+ },
+ {
+  "id": "LCR-S22",
+  "kind": "single",
+  "codes": [
+   "padrone"
+  ],
+  "cta": "Folge uns für mehr Pizza",
+  "seconds": 7.0,
+  "hook_shown": "Kalbfleisch auf Pizza?"
+ },
+ {
+  "id": "LCR-S23",
+  "kind": "single",
+  "codes": [
+   "formaggi"
+  ],
+  "cta": "Schreib's in die Kommentare",
+  "seconds": 7.0,
+  "hook_shown": "Vier Käse. Zu viel?"
+ },
+ {
+  "id": "LCR-S24",
+  "kind": "single",
+  "codes": [
+   "lacasa"
+  ],
+  "cta": "Tagge deine Pizza-Begleitung",
+  "seconds": 7.0,
+  "hook_shown": "Unsere Pizza La Casa"
+ },
+ {
+  "id": "LCR-S25",
+  "kind": "single",
+  "codes": [
+   "bufala"
+  ],
+  "cta": "Speichere deinen Favoriten",
+  "seconds": 7.0,
+  "hook_shown": "Mit Büffelmozzarella"
+ },
+ {
+  "id": "LCR-S26",
+  "kind": "single",
+  "codes": [
+   "lasagne"
+  ],
+  "cta": "Folge uns für mehr Pizza",
+  "seconds": 7.0,
+  "hook_shown": "Lasagne Bolognese"
+ },
+ {
+  "id": "LCR-S27",
+  "kind": "single",
+  "codes": [
+   "verde"
+  ],
+  "cta": "Schreib's in die Kommentare",
+  "seconds": 7.0,
+  "hook_shown": "Lasagne mit Gemüse"
+ },
+ {
+  "id": "LCR-S28",
+  "kind": "single",
+  "codes": [
+   "cannelloni"
+  ],
+  "cta": "Tagge deine Pizza-Begleitung",
+  "seconds": 7.0,
+  "hook_shown": "Vier Käse in Cannelloni"
+ },
+ {
+  "id": "LCR-S29",
+  "kind": "single",
+  "codes": [
+   "pcaprese"
+  ],
+  "cta": "Speichere deinen Favoriten",
+  "seconds": 7.0,
+  "hook_shown": "Piadina oder Pizza?"
+ },
+ {
+  "id": "LCR-S30",
+  "kind": "single",
+  "codes": [
+   "pprosciutto"
+  ],
+  "cta": "Folge uns für mehr Pizza",
+  "seconds": 7.0,
+  "hook_shown": "Piadina mit Schinken"
+ },
+ {
+  "id": "LCR-S31",
+  "kind": "single",
+  "codes": [
+   "ppiccante"
+  ],
+  "cta": "Schreib's in die Kommentare",
+  "seconds": 7.0,
+  "hook_shown": "Scharfe Piadina?"
+ },
+ {
+  "id": "LCR-S32",
+  "kind": "single",
+  "codes": [
+   "placasa"
+  ],
+  "cta": "Tagge deine Pizza-Begleitung",
+  "seconds": 7.0,
+  "hook_shown": "Unsere Piadina La Casa"
+ },
+ {
+  "id": "LCR-V01",
+  "kind": "versus",
+  "codes": [
+   "margherita",
+   "fior"
+  ],
+  "hook": "Klassisch oder mit Basilikum?",
+  "cta": "Speichere deinen Favoriten",
+  "seconds": 8.0,
+  "hook_shown": "Klassisch oder mit Basilikum?"
+ },
+ {
+  "id": "LCR-V02",
+  "kind": "versus",
+  "codes": [
+   "salame",
+   "calabrese"
+  ],
+  "hook": "Mild oder scharf?",
+  "cta": "Folge uns für mehr Pizza",
+  "seconds": 8.0,
+  "hook_shown": "Mild oder scharf?"
+ },
+ {
+  "id": "LCR-V03",
+  "kind": "versus",
+  "codes": [
+   "funghi",
+   "profunghi"
+  ],
+  "hook": "Mit oder ohne Schinken?",
+  "cta": "Schreib's in die Kommentare",
+  "seconds": 8.0,
+  "hook_shown": "Mit oder ohne Schinken?"
+ },
+ {
+  "id": "LCR-V04",
+  "kind": "versus",
+  "codes": [
+   "formaggi",
+   "gorgonzola"
+  ],
+  "hook": "Wie viel Käse darf's sein?",
+  "cta": "Tagge deine Pizza-Begleitung",
+  "seconds": 8.0,
+  "hook_shown": "Wie viel Käse darf's sein?"
+ },
+ {
+  "id": "LCR-V05",
+  "kind": "versus",
+  "codes": [
+   "hawaii",
+   "prosciutto"
+  ],
+  "hook": "Ananas: ja oder nein?",
+  "cta": "Speichere deinen Favoriten",
+  "seconds": 8.0,
+  "hook_shown": "Ananas: ja oder nein?"
+ },
+ {
+  "id": "LCR-V06",
+  "kind": "versus",
+  "codes": [
+   "tonno",
+   "cipolla"
+  ],
+  "hook": "Mit Thunfisch oder pur?",
+  "cta": "Folge uns für mehr Pizza",
+  "seconds": 8.0,
+  "hook_shown": "Mit Thunfisch oder pur?"
+ },
+ {
+  "id": "LCR-V07",
+  "kind": "versus",
+  "codes": [
+   "gamberetti",
+   "mare"
+  ],
+  "hook": "Crevetten oder alles aus dem Meer?",
+  "cta": "Schreib's in die Kommentare",
+  "seconds": 8.0,
+  "hook_shown": "Crevetten oder alles aus dem Meer?"
+ },
+ {
+  "id": "LCR-V08",
+  "kind": "versus",
+  "codes": [
+   "lasagne",
+   "verde"
+  ],
+  "hook": "Bolognese oder Verde?",
+  "cta": "Tagge deine Pizza-Begleitung",
+  "seconds": 8.0,
+  "hook_shown": "Bolognese oder Verde?"
+ },
+ {
+  "id": "LCR-V09",
+  "kind": "versus",
+  "codes": [
+   "lacasa",
+   "placasa"
+  ],
+  "hook": "Pizza oder Piadina?",
+  "cta": "Speichere deinen Favoriten",
+  "seconds": 8.0,
+  "hook_shown": "Pizza oder Piadina?"
+ },
+ {
+  "id": "LCR-V10",
+  "kind": "versus",
+  "codes": [
+   "rucola",
+   "bufala"
+  ],
+  "hook": "Rucola oder Büffelmozzarella?",
+  "cta": "Folge uns für mehr Pizza",
+  "seconds": 8.0,
+  "hook_shown": "Rucola oder Büffelmozzarella?"
+ },
+ {
+  "id": "LCR-V11",
+  "kind": "versus",
+  "codes": [
+   "vegetariana",
+   "giardino"
+  ],
+  "hook": "Welche Veggie-Pizza?",
+  "cta": "Schreib's in die Kommentare",
+  "seconds": 8.0,
+  "hook_shown": "Welche Veggie-Pizza?"
+ },
+ {
+  "id": "LCR-V12",
+  "kind": "versus",
+  "codes": [
+   "stagioni",
+   "rustica"
+  ],
+  "hook": "Quattro Stagioni oder Rustica?",
+  "cta": "Tagge deine Pizza-Begleitung",
+  "seconds": 8.0,
+  "hook_shown": "Quattro Stagioni oder Rustica?"
+ },
+ {
+  "id": "LCR-V13",
+  "kind": "versus",
+  "codes": [
+   "calzone",
+   "padrone"
+  ],
+  "hook": "Zugeklappt oder offen?",
+  "cta": "Speichere deinen Favoriten",
+  "seconds": 8.0,
+  "hook_shown": "Zugeklappt oder offen?"
+ },
+ {
+  "id": "LCR-V14",
+  "kind": "versus",
+  "codes": [
+   "pcaprese",
+   "pprosciutto"
+  ],
+  "hook": "Caprese oder Prosciutto?",
+  "cta": "Folge uns für mehr Pizza",
+  "seconds": 8.0,
+  "hook_shown": "Caprese oder Prosciutto?"
+ },
+ {
+  "id": "LCR-V15",
+  "kind": "versus",
+  "codes": [
+   "ortolana",
+   "napoli"
+  ],
+  "hook": "Mit Ei oder mit Sardellen?",
+  "cta": "Schreib's in die Kommentare",
+  "seconds": 8.0,
+  "hook_shown": "Mit Ei oder mit Sardellen?"
+ },
+ {
+  "id": "LCR-V16",
+  "kind": "versus",
+  "codes": [
+   "cannelloni",
+   "ppiccante"
+  ],
+  "hook": "Pasta oder Piadina?",
+  "cta": "Tagge deine Pizza-Begleitung",
+  "seconds": 8.0,
+  "hook_shown": "Pasta oder Piadina?"
+ },
+ {
+  "id": "LCR-R01",
+  "kind": "roundup",
+  "codes": [
+   "margherita",
+   "funghi",
+   "vegetariana",
+   "giardino",
+   "rucola"
+  ],
+  "hook": "Team Veggie",
+  "cta": "Speichere deinen Favoriten",
+  "seconds": 9.1,
+  "hook_shown": "Team Veggie"
+ },
+ {
+  "id": "LCR-R02",
+  "kind": "roundup",
+  "codes": [
+   "napoli",
+   "tonno",
+   "gamberetti",
+   "mare"
+  ],
+  "hook": "Aus dem Meer",
+  "cta": "Folge uns für mehr Pizza",
+  "seconds": 7.3999999999999995,
+  "hook_shown": "Aus dem Meer"
+ },
+ {
+  "id": "LCR-R03",
+  "kind": "roundup",
+  "codes": [
+   "lasagne",
+   "verde",
+   "cannelloni"
+  ],
+  "hook": "Pasta al forno",
+  "cta": "Schreib's in die Kommentare",
+  "seconds": 5.699999999999999,
+  "hook_shown": "Pasta al forno"
+ },
+ {
+  "id": "LCR-R04",
+  "kind": "roundup",
+  "codes": [
+   "pcaprese",
+   "pprosciutto",
+   "ppiccante",
+   "placasa"
+  ],
+  "hook": "Piadina",
+  "cta": "Tagge deine Pizza-Begleitung",
+  "seconds": 7.3999999999999995,
+  "hook_shown": "Piadina"
+ },
+ {
+  "id": "LCR-R05",
+  "kind": "roundup",
+  "codes": [
+   "prosciutto",
+   "profunghi",
+   "hawaii",
+   "stagioni",
+   "rustica"
+  ],
+  "hook": "Mit Schinken",
+  "cta": "Speichere deinen Favoriten",
+  "seconds": 9.1,
+  "hook_shown": "Mit Schinken"
+ },
+ {
+  "id": "LCR-R06",
+  "kind": "roundup",
+  "codes": [
+   "formaggi",
+   "gorgonzola",
+   "bufala",
+   "fior"
+  ],
+  "hook": "Für Käse-Fans",
+  "cta": "Folge uns für mehr Pizza",
+  "seconds": 7.3999999999999995,
+  "hook_shown": "Für Käse-Fans"
+ },
+ {
+  "id": "LCR-R07",
+  "kind": "roundup",
+  "codes": [
+   "calabrese",
+   "ppiccante",
+   "padrone"
+  ],
+  "hook": "Darf's scharf sein?",
+  "cta": "Schreib's in die Kommentare",
+  "seconds": 5.699999999999999,
+  "hook_shown": "Darf's scharf sein?"
+ },
+ {
+  "id": "LCR-R08",
+  "kind": "roundup",
+  "codes": [
+   "margherita",
+   "salame",
+   "funghi",
+   "prosciutto"
+  ],
+  "hook": "Die Klassiker",
+  "cta": "Tagge deine Pizza-Begleitung",
+  "seconds": 7.3999999999999995,
+  "hook_shown": "Die Klassiker"
+ },
+ {
+  "id": "LCR-R09",
+  "kind": "roundup",
+  "codes": [
+   "cipolla",
+   "tonno",
+   "rustica",
+   "padrone"
+  ],
+  "hook": "Mit Zwiebeln",
+  "cta": "Speichere deinen Favoriten",
+  "seconds": 7.3999999999999995,
+  "hook_shown": "Mit Zwiebeln"
+ },
+ {
+  "id": "LCR-R10",
+  "kind": "roundup",
+  "codes": [
+   "lacasa",
+   "lasagne",
+   "placasa"
+  ],
+  "hook": "Pizza · Pasta · Piadina",
+  "cta": "Folge uns für mehr Pizza",
+  "seconds": 5.699999999999999,
+  "hook_shown": "Pizza · Pasta · Piadina"
+ }
+]
