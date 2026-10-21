@@ -1,0 +1,156 @@
+[
+ {
+  "id": "LCR-X01",
+  "kind": "roundup",
+  "codes": [
+   "margherita",
+   "profunghi",
+   "stagioni"
+  ],
+  "hook": "Welcher Klassiker gewinnt?",
+  "cta": "Speichere deinen Favoriten",
+  "seconds": 5.699999999999999
+ },
+ {
+  "id": "LCR-X02",
+  "kind": "versus",
+  "codes": [
+   "prosciutto",
+   "profunghi"
+  ],
+  "hook": "Mit oder ohne Champignons?",
+  "cta": "Folge uns für mehr Pizza",
+  "seconds": 8.0
+ },
+ {
+  "id": "LCR-X03",
+  "kind": "versus",
+  "codes": [
+   "napoli",
+   "gamberetti"
+  ],
+  "hook": "Sardellen oder Crevetten?",
+  "cta": "Schreib's in die Kommentare",
+  "seconds": 8.0
+ },
+ {
+  "id": "LCR-X04",
+  "kind": "versus",
+  "codes": [
+   "stagioni",
+   "calzone"
+  ],
+  "hook": "Vier Jahreszeiten oder Calzone?",
+  "cta": "Tagge deine Pizza-Begleitung",
+  "seconds": 8.0
+ },
+ {
+  "id": "LCR-X05",
+  "kind": "roundup",
+  "codes": [
+   "margherita",
+   "cipolla",
+   "fior",
+   "napoli",
+   "funghi"
+  ],
+  "hook": "Fünf Pizzen – welche zuerst?",
+  "cta": "Speichere deinen Favoriten",
+  "seconds": 9.1
+ },
+ {
+  "id": "LCR-X06",
+  "kind": "roundup",
+  "codes": [
+   "giardino",
+   "stagioni",
+   "rustica",
+   "salame",
+   "tonno"
+  ],
+  "hook": "Noch fünf Pizzen – deine Wahl?",
+  "cta": "Folge uns für mehr Pizza",
+  "seconds": 9.1
+ },
+ {
+  "id": "LCR-X07",
+  "kind": "roundup",
+  "codes": [
+   "ortolana",
+   "vegetariana",
+   "cannelloni"
+  ],
+  "hook": "Alles mit Spinat",
+  "cta": "Schreib's in die Kommentare",
+  "seconds": 5.699999999999999
+ },
+ {
+  "id": "LCR-X08",
+  "kind": "roundup",
+  "codes": [
+   "gorgonzola",
+   "formaggi",
+   "cannelloni"
+  ],
+  "hook": "Alles mit Gorgonzola",
+  "cta": "Tagge deine Pizza-Begleitung",
+  "seconds": 5.699999999999999
+ },
+ {
+  "id": "LCR-X09",
+  "kind": "roundup",
+  "codes": [
+   "ortolana",
+   "calzone"
+  ],
+  "hook": "Alles mit Ei",
+  "cta": "Speichere deinen Favoriten",
+  "seconds": 4.0
+ },
+ {
+  "id": "LCR-X10",
+  "kind": "roundup",
+  "codes": [
+   "giardino",
+   "stagioni"
+  ],
+  "hook": "Alles mit Artischocken",
+  "cta": "Folge uns für mehr Pizza",
+  "seconds": 4.0
+ },
+ {
+  "id": "LCR-X11",
+  "kind": "roundup",
+  "codes": [
+   "rucola",
+   "lacasa",
+   "placasa"
+  ],
+  "hook": "Alles mit Rucola",
+  "cta": "Schreib's in die Kommentare",
+  "seconds": 5.699999999999999
+ },
+ {
+  "id": "LCR-X12",
+  "kind": "roundup",
+  "codes": [
+   "rucola",
+   "placasa"
+  ],
+  "hook": "Alles mit Cherrytomaten",
+  "cta": "Tagge deine Pizza-Begleitung",
+  "seconds": 4.0
+ },
+ {
+  "id": "LCR-X13",
+  "kind": "roundup",
+  "codes": [
+   "pcaprese",
+   "pprosciutto",
+   "cannelloni"
+  ],
+  "hook": "Alles mit Mozzarella",
+  "cta": "Speichere deinen Favoriten",
+  "seconds": 5.699999999999999
+ }
+]
